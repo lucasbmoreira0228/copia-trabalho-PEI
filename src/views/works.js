@@ -290,3 +290,4 @@ function renderWorkDetails(container, id) {
 
     return renderLayout(container, '/obras');
 }
+
