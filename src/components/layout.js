@@ -91,3 +91,4 @@ export function renderLayout(contentNode, activePath = '/') {
 
     return container;
 }
+
