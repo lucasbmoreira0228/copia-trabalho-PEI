@@ -66,3 +66,4 @@ export class Router {
         window.location.hash = path;
     }
 }
+
