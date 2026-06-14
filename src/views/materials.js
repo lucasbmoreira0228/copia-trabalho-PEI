@@ -245,3 +245,4 @@ function renderWorkMaterials(container, workId) {
 
     return renderLayout(container, '/obras'); // keep sidebar "obras" highlighted
 }
+
